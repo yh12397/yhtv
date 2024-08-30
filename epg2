@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="TV1">
+  <channel id="101">
     <display-name lang="en">TV1</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="TV2">
+  <channel id="102">
     <display-name lang="en">TV2</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="TV3">
+  <channel id="103">
     <display-name lang="en">TV3</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="DidikTVKPM">
+  <channel id="107">
     <display-name lang="en">DidikTV KPM</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="8TV">
+  <channel id="108">
     <display-name lang="en">8TV</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="TV9">
+  <channel id="109">
     <display-name lang="en">TV9</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Okey">
+  <channel id="110">
     <display-name lang="en">Okey</display-name>
     <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
     <url>http://www.rtmklik.rtm.gov.my</url>
   </channel>
-  <channel id="Sukan RTM">
+  <channel id="111">
     <display-name lang="en">Sukan RTM</display-name>
     <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
     <url>http://www.rtmklik.rtm.gov.my</url>
   </channel>
-  <channel id="TV6">
+  <channel id="113">
     <display-name lang="en">TV6</display-name>
     <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv6_Trans.png" />
     <url>http://www.rtmklik.rtm.gov.my</url>
   </channel>
-  <channel id="TVAlhijrah">
+  <channel id="114">
     <display-name lang="en">Al-Hijrah</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="BernamaTV">
+  <channel id="121">
     <display-name lang="en">BERNAMA</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="TVS">
+  <channel id="122">
     <display-name lang="en">TVS</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Berita RTM">
+  <channel id="123">
     <display-name lang="en">Berita RTM</display-name>
     <icon src="https://rtm-images.glueapi.io/480x0live_channel/berita_bckg.jpg" />
     <url>http://www.rtmklik.rtm.gov.my</url>
